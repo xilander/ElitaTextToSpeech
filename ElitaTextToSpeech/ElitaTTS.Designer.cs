@@ -1,7 +1,7 @@
 ﻿
 namespace ElitaTextToSpeech
 {
-    partial class Form1
+    partial class ElitaTTS
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -29,7 +29,7 @@ namespace ElitaTextToSpeech
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ElitaTTS));
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.btn_Speak = new System.Windows.Forms.Button();
             this.btn_Resume = new System.Windows.Forms.Button();

@@ -7,9 +7,9 @@ using System.Windows.Forms;
 
 namespace ElitaTextToSpeech
 {
-    public partial class Form1 : Form
+    public partial class ElitaTTS : Form
     {
-        public Form1()
+        public ElitaTTS()
         {
             InitializeComponent();
         }
