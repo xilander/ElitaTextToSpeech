@@ -4,4 +4,4 @@ Conversor de texto a audio utilizando las "voces" de microsoft instaladas en el 
 
 # Construido con 
 
-- Visual Studio 2019
+- Visual Studio 2017
