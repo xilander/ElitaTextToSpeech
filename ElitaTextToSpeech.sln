@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElitaTextToSpeech", "ElitaTextToSpeech\ElitaTextToSpeech.csproj", "{D936835F-F07E-4058-BAEA-6AAD5E161EF3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Elita TTS instalador", "Elita TTS instalador\Elita TTS instalador.vdproj", "{685AF963-9AC6-45E8-BEC9-C595D486C436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D936835F-F07E-4058-BAEA-6AAD5E161EF3}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D936835F-F07E-4058-BAEA-6AAD5E161EF3}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D936835F-F07E-4058-BAEA-6AAD5E161EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D936835F-F07E-4058-BAEA-6AAD5E161EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685AF963-9AC6-45E8-BEC9-C595D486C436}.Debug|Any CPU.ActiveCfg = Release
+		{685AF963-9AC6-45E8-BEC9-C595D486C436}.Release|Any CPU.ActiveCfg = Debug
+		{685AF963-9AC6-45E8-BEC9-C595D486C436}.Release|Any CPU.Build.0 = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC27F842-00CB-40A5-8110-B422CF45AEED}
+	EndGlobalSection
+EndGlobal
